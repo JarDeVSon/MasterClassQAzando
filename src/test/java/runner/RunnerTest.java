@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         plugin = {"json:target/report/cucumber.json","pretty"},
         publish = true,
         snippets = CucumberOptions.SnippetType.CAMELCASE,
-        tags = ""
+        tags = "@cupom"
 )
 public class RunnerTest {
 
