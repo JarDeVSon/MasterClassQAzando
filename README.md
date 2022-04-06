@@ -2,9 +2,9 @@
 
 # Ferramentas utilizadas:
 
-Java - 1.8
-Maven - latest
-Cucumber - latest
-JUnit - latest
-Selenium WebDriver - 4 latest
+#Java - 1.8
+#Maven - latest
+#Cucumber - latest
+#JUnit - latest
+#Selenium WebDriver - 4 latest
 
