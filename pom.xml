@@ -67,6 +67,7 @@
                     <sourceJsonReportDirectory>${project.build.directory}/report
                     </sourceJsonReportDirectory>
 
+
                     <generatedHtmlReportDirectory>${project.build.directory}/formated-report
                     </generatedHtmlReportDirectory>
                 </configuration>
